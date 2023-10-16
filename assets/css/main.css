@@ -1804,11 +1804,7 @@ input, select, textarea {
 					-webkit-transition: background-color .2s ease-in-out;
 					-ms-transition: background-color .2s ease-in-out;
 					transition: background-color .2s ease-in-out;
-<<<<<<< HEAD
 					background-color: #FFF;
-=======
-					background-color: #444;
->>>>>>> 3f82f764eec7a5b9f09bc1d96931945f272ca8c0
 					border-radius: 6px;
 					box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.1);
 					color: #2E2E2E !important;
@@ -1836,11 +1832,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-linkedin-in {
-<<<<<<< HEAD
 					background-color: #0E76A8;
-=======
-					background-color: #006599;
->>>>>>> 3f82f764eec7a5b9f09bc1d96931945f272ca8c0
 				}
 
 				ul.social li a.fa-tumblr {
@@ -1852,11 +1844,7 @@ input, select, textarea {
 				}
 
 				ul.social li a.fa-github {
-<<<<<<< HEAD
 					background-color: #d3d3d3 ;
-=======
-					background-color: #FAFAFA;
->>>>>>> 3f82f764eec7a5b9f09bc1d96931945f272ca8c0
 				}
 
 				ul.social li a.fa-rss {
